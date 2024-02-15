@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @mkylmv
+Program en sade sekilde kodlanib araya zererli kodlar yerlestirib test etmeyiniz ucundur.Kodu aciq sekilde paylasilib windows os sisteminde koda elaveler edib
+genislendirmek size qalib uygun zererli kodlari arasdirib elave edib test etmeyiniz ucundur.
 
 Programı Desktopunuza qurmaq üçün Pyinstaller
 qurmaq lazımdı kodu Terminalda yazın;
